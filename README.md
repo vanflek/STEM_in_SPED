@@ -1,4 +1,4 @@
-# STEM_in_SPED
+# STEM in SPED
 About my STEM activities at school for students with special needs
 ## My Clases 
 1. Elementary Robotics for Elementary School
