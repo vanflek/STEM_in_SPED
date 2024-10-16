@@ -6,3 +6,5 @@ About my STEM activities at school for students with special needs
 3. Middle School Science
 4. Drone Coding
 5. VR Coding
+6. Competition preparation
+7. Blocks
