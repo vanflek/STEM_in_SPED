@@ -11,7 +11,7 @@ About my STEM activities at school for students with special needs
 8. VR Driving
 
 
-##Specific of Job at School for children with special needs.
+## Specific of Job at School for children with special needs.
 
 1. So different students. We have good motivated students and not motivated students in the same clas.
 2. Usualy level of intelegent is diffrent too.
